@@ -1,10 +1,10 @@
 ### Sources for mapping plague outbreaks between 541 and 750 CE
 
 Clysma as possible starting point  
-- Tsiamis et al. (2009); Harper (2017) 215–218  
+ Tsiamis et al. (2009); Harper (2017) 215–218  
 541: Pelusium  
-- Prokopios, BP 2.22, 6  
-- See also: Stathakopoulos (2004) no. 102  
+   Prokopios, BP 2.22, 6  
+   See also: Stathakopoulos (2004) no. 102  
 541: Gaza, Ashkelon, Negev  
   John of Ephesos, Fragment E 77  
   Epigraphic material in Conrad (1996) 95  
