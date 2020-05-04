@@ -1,4 +1,5 @@
-# GIS data of Keller et al. 2019 PNAS: Ancient Yersinia pestis genomes from across Western Europe reveal early diversification during the First Pandemic (541–750)
+# GIS data of Keller et al. 2019 PNAS
+## Ancient Yersinia pestis genomes from across Western Europe reveal early diversification during the First Pandemic (541–750)
 (https://doi.org/10.1073/pnas.1820447116)
 
 _The GIS data from the study are offered both as a geopackage and as ESRI shapefiles and a project file. The project file contains also the layout parameters to create a maps similar to the figures of the study. An interactive web map can be found [here](https://qgiscloud.com/marcelkeller/First_Pandemic_cloud). You can find additional information for features (e.g. years of outbreaks) by clicking on the map. This information can also be found in the attribute tables of the respective files._
