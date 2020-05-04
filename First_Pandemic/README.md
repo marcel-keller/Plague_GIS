@@ -46,7 +46,7 @@ Attributes:
 - DOI-Link
 
 ### Outbreaks cities
-Precision of coordinates might be limited to the modern municipality and not to the exact location of the Late Antique/Early Medieval city. Please note that the __sources are given for all outbreaks of the respective year__ (see SI) and not only for the respective city. For the last wave, a common end of the pandemic in 750 AD is assumed.
+Precision of coordinates might be limited to the modern municipality and not to the exact location of the Late Antique/Early Medieval city. Please note that the __sources are given for all outbreaks of the respective year__ (see [here](https://github.com/marcel-keller/Plague_GIS/blob/master/First_Pandemic/Sources.md)) and not only for the respective city. For the last wave, a common end of the pandemic in 750 AD is assumed.
 
 Attributes:
 - Name
