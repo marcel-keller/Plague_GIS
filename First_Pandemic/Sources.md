@@ -3,46 +3,46 @@
 Clysma as possible starting point
   Tsiamis et al. (2009); Harper (2017) 215–218
 541: Pelusium
-	Prokopios, BP 2.22, 6
-	See also: Stathakopoulos (2004) no. 102
+  Prokopios, BP 2.22, 6
+  See also: Stathakopoulos (2004) no. 102
 541: Gaza, Ashkelon, Negev
   John of Ephesos, Fragment E 77
   Epigraphic material in Conrad (1996) 95
   See also: Stathakopoulos (2004) no. 103
 541: Alexandria
-	Prokopios, BP 2.22, 6
+  Prokopios, BP 2.22, 6
   John of Ephesos, Fragment E 77, 80
   Chron. Seert 185
   Michael the Syrian 2 (235–238)
   See also: Stathakopoulos (2004) no. 104
 542: Jerusalem and countryside
-	Cyril of Scythopolis, Vita of Kyriakos 10
+  Cyril of Scythopolis, Vita of Kyriakos 10
   See also: Stathakopoulos (2004) no. 105
 542: Izra
-	Epigraphic material in Koder (1995) 13–18
-	See also: Stathakopoulos (2004) no. 106
+  Epigraphic material in Koder (1995) 13–18
+  See also: Stathakopoulos (2004) no. 106
 542: Antioch
-	Vita of Symeon Stylites Iunior 69
+  Vita of Symeon Stylites Iunior 69
   See also: Stathakopoulos (2004) no. 107
 542: Apamea
-	Evagrios, Hist. eccl. 4.29
+  Evagrios, Hist. eccl. 4.29
   See also: Stathakopoulos (2004) no. 108
 542: Emesa
-	Zacharias Rhetor, Fragment ch. IX
+  Zacharias Rhetor, Fragment ch. IX
   Leontios of Neapolis, Vita of Symeon Salos 151
   See also: Stathakopoulos (2004) no. 109
 542: Myra
   Vita of Nicholas of Sion 52
   See also: Stathakopoulos (2004) no. 110
 542: Constantinople
-	Prokopios, BP, 2.22, 2.23
-	John of Ephesos, Fragment E 74–93
-	John Malalas, 482
-	Theophanes, Chron. AM 6034
-	See also: Stathakopoulos (2004) no. 111
+  Prokopios, BP, 2.22, 2.23
+  John of Ephesos, Fragment E 74–93
+  John Malalas, 482
+  Theophanes, Chron. AM 6034
+  See also: Stathakopoulos (2004) no. 111
 542: Sykeon
-	Theodore of Sykeon, Vita 8 (I 7–8)
-	See also: Stathakopoulos (2004) no. 112
+  Theodore of Sykeon, Vita 8 (I 7–8)
+  See also: Stathakopoulos (2004) no. 112
 542: North Africa
   Victor of Tunnuna, Chronica ad a. 542 (201)
   See also: Stathakopoulos (2004) no. 114
@@ -60,13 +60,13 @@ Clysma as possible starting point
 	Gregory of Tours, Lib. vitae patrum 6.6, 17.4
   Gregory of Tours, Liber in gloria confessorum 78
 543: Spain
-	Victoris Tunnunensis Chronicon, Consularia Caesaraugustana, ad a. p.c. Basili II
-	See also: Kulikowski (2007) 150–151
+  Victoris Tunnunensis Chronicon, Consularia Caesaraugustana, ad a. p.c. Basili II
+  See also: Kulikowski (2007) 150–151
 543–544: Rome
   Inscriptiones Christianae Urbis Romae 1.1452, 2.4287, 7.17624, 2.5088, 2.4289, 8.20839, 2.5087, 2.5087, 2.5087.
   See also: Stathakopoulos (2004) no. 118
 544: Ireland, Britain
-	Annals of Tigernach 137, 198
+  Annals of Tigernach 137, 198
   Adomnán, Vita Columbae 348
   See also: E. Phillimore (1888); A. Dooley (2007), 216; J. Maddicott (2007), 173–174
 558: Constantinople
@@ -98,7 +98,7 @@ Clysma as possible starting point
   Michael the Syrian 10.8 (346)
   See also: Stathakopoulos (2004) no. 145, Harper (2017) no. 5
 576: Ireland
-	For secondary sources see:
+  For secondary sources see:
   Dooley (2007), 219
   Woods (2003)
 582–584: Southwestern Gaul, Narbonne, Spain
@@ -149,18 +149,18 @@ Clysma as possible starting point
   Arabic sources in Conrad (1981) 159–163
   See also: Stathakopoulos (2004) nos. 177, 178; Harper (2017) no. 18 
 638–639: Palestine, Syria, Mesopotamia
-	Michael the Syrian, 11.8 (423)
-	Elias of Nisibis, (AH 18)
-	Chron. ad a. 1234, 76 (AH 18)
-	Arabic sources in Conrad (1981) 167ff.
-	See also: Stathakopoulos (2004) no. 180, Harper (2017) no. 20
+  Michael the Syrian, 11.8 (423)
+  Elias of Nisibis, (AH 18)
+  Chron. ad a. 1234, 76 (AH 18)
+  Arabic sources in Conrad (1981) 167ff.
+  See also: Stathakopoulos (2004) no. 180, Harper (2017) no. 20
 663–666: England, Ireland
-	Adomnán, Vita Columbae 47
+  Adomnán, Vita Columbae 47
   Bede, Hist. eccl. 3.23, 27, 30; 4.1, 7, 8
   Bede, Vit. Cuthb. 8
   See also: Harper (2017) no. 21, Maddicott (2007)
 670–671: Kufa
-	Arabic sources in Conrad (1981) 250–253
+  Arabic sources in Conrad (1981) 250–253
   See also Stathakopoulos (2004) no. 185, Harper (2017) no. 22
 672–673: Egypt, Palestine, Mesopotamia, Kufa
   Theophanes, Chron. AM 6164
